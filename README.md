@@ -1,14 +1,18 @@
 # reactjs-portfolio
+👋 Hi, I’m @aybs13
+- 👀 I’m interested in FUll STACK JAVA SCRIPT
+- 🌱 I’m currently learning ES6 JAVA SCRIPT AND NEXT JS
+- 📫 How to reach me ayubrantesalu7@gmail.com
 My personal portfolio aybs13.tech which features some of my github projects as well as my resume and technical skills.
 
-This project was built using these technologies.
+This project was built using:
 
+VsCode
 React.js
 Node.js
 Express.js
 CSS3
-VsCode
-Vercel
+
 Features
 * Multi-Page Layout
 

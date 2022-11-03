@@ -3,7 +3,9 @@
 - 👀 I’m interested in FUll STACK JAVA SCRIPT
 - 🌱 I’m currently learning ES6 JAVA SCRIPT AND NEXT JS
 - 📫 How to reach me ayubrantesalu7@gmail.com
-My personal portfolio aybs13.tech which features some of my github projects as well as my resume and technical skills.
+
+
+My personal portfolio aybs13 which features some of my github projects as well as my resume and technical skills.
 
 This project was built using:
 
